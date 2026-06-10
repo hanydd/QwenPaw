@@ -5,6 +5,7 @@
 .vscode
 *.md
 !README.md
+!src/**/*.md
 
 # Python dev and cache
 __pycache__
